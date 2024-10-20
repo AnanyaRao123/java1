@@ -13,7 +13,7 @@ class Doctor extends Human{
         System.out.println("Doctor");
     }
 }
-public class A8 {
+public class A08 {
     public static void main(String[] args){
         Human amar=new Human();
         Teacher babu=new Teacher();
