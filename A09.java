@@ -16,7 +16,7 @@ class TimeTable{
         System.out.println("TimeTable of Year "+heading+" Section "+section);
     }
 }
-public class A9 {
+public class A09 {
     public static void main(String[] args){
         TimeTable tt2A=new TimeTable(2,"A");
         TimeTable tt2B=new TimeTable(2,"B");
