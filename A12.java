@@ -8,7 +8,7 @@
  *
  * @author smv
  */
-public class DefaultValue {
+public class A12 {
     public static void main(String[] args){
         byte b1=0;
         short s1=0;
