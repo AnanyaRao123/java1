@@ -21,7 +21,7 @@ class Employee{
         System.out.println(name+" "+id+" "+salary);
     }
 }
-public class A2 {
+public class A03 {
     public static void main(String[] args){
         Employee emp1=new Employee(1,"Kuthyar",5000);
         emp1.getEmpDetails();
