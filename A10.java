@@ -20,7 +20,7 @@ class TTable{
         System.out.println("This is time table for "+branch+" Section "+classSection+" at "+roomNo);
     }
 }
-public class A12 {
+public class A10 {
     public static void main(String[] args){
         System.out.println("TimeTable");
         TTable ttA=new TTable("CSE","A","A203");
