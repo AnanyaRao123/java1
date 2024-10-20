@@ -24,7 +24,7 @@ class Stack{
 				System.out.println("Items in the stack are ");
 				for(int i=top;i>=0;i--){
 					System.out.println(stk[i]);}}}}
-public class A2{
+public class A02{
 	public static void main(String[] args){
 		int ch;		
 		Stack stack1 = new Stack();
