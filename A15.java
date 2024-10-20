@@ -32,7 +32,7 @@ class Elections{
         System.out.println("The elected " + post + " is: " + winner.name);
     }
 }
-public class TestElections{
+public class A15 {
     public static void main(String[] args){
         Students[] presidentCandidates = { new Students("Anurag Rao", "President"), new Students("Adithi","President") };
         Students[] vpCandidates = { new Students("Barath Devadiga", "Vice President"), new Students("Sathwik", "Vice President") };
