@@ -8,7 +8,7 @@
  *
  * @author smv
  */
-public class Temperature {
+public class A14 {
     public static void main(String[] args) {
         float tempC,tempF;
         tempC=15;
