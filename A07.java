@@ -18,7 +18,7 @@ class SCDCC extends Bank2{
         return 8;
     }
 }
-public class A7 {
+public class A07 {
     public static void main(String[] args){
         Canara bank1=new Canara();
         SBI bank2=new SBI();
