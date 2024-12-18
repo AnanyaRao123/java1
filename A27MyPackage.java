@@ -6,7 +6,6 @@ class MyPackage{
 	}
 }
 public class A27MyPackage {
-
 	public static void main(String[] args) {
 		System.out.println("Package");
 		MyPackage mypack1=new MyPackage();
